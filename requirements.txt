@@ -4,11 +4,14 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-numpy>=1.9.2
+numpy==1.18.1
 scipy>=0.15.1
 scikit-learn>=0.18
-matplotlib>=1.4.3
-pandas>=0.19
+pandas==0.25.3
 statsmodels==0.11.1
 requests==2.22.0
 pmdarima==1.5.3
+Flask-RESTful==0.3.8
+DateTime==4.3
+matplotlib==3.1.1
+pickle == 4.0
